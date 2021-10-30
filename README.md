@@ -1,4 +1,3 @@
 # URI Online Judge
-Solutions for URI Online Judge problems
 
-This repository contains all my submissions to the URI Online Judge platform in Python 3 language. The solutions compiled here have been tested and approved by the Judge.
+Este repositório contém as minhas submissões na plataforma URI Online Judge para a linguagem Python 3. As soluções apresentadas foram testadas e aprovadas pelo Judge.
